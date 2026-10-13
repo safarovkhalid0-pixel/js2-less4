@@ -1,0 +1,39 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+
+  <path d="M48 45
+           Q57 28 76 35
+           L99 45
+           Q120 51 141 45
+           L164 35
+           Q183 28 193 45
+           L216 78
+           Q225 96 216 119
+           L207 133
+           Q200 143 188 134
+           L160 111
+           L80 111
+           L52 134
+           Q40 143 33 132
+           L24 116
+           Q16 96 25 78 Z"
+        fill="#30313b"
+        stroke="#050505"
+        stroke-width="7"
+        stroke-linejoin="round"/>
+
+  <g fill="#f5f5f5" stroke="#080808" stroke-width="4" stroke-linejoin="round">
+    <rect x="54" y="65" width="17" height="46"/>
+    <rect x="40" y="79" width="45" height="17"/>
+  </g>
+
+  <circle cx="185" cy="66" r="10"
+          fill="#ff4848" stroke="#080808" stroke-width="4"/>
+
+  <circle cx="211" cy="85" r="10"
+          fill="#ffc928" stroke="#080808" stroke-width="4"/>
+
+  <circle cx="176" cy="100" r="10"
+          fill="#28d95a" stroke="#080808" stroke-width="4"/>
+
+</svg>

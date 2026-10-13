@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#ffffff"/>
+
+  <!-- Контури берунии блок -->
+  <path d="M25 32 L49 22 L74 30 L74 53 L49 65 L25 56 Z"
+        fill="#111111" stroke="#111111" stroke-width="3.5"
+        stroke-linejoin="round"/>
+
+  <!-- Қисми боло -->
+  <path d="M28 32 L49 24 L71 31 L50 40 Z"
+        fill="#ff7629" stroke="#111111" stroke-width="2.5"
+        stroke-linejoin="round"/>
+
+  <!-- Рӯи чап -->
+  <path d="M28 32 L50 40 L50 61 L28 53 Z"
+        fill="#f15b16" stroke="#111111" stroke-width="2.5"
+        stroke-linejoin="round"/>
+
+  <!-- Рӯи рост -->
+  <path d="M50 40 L71 31 L71 51 L50 61 Z"
+        fill="#9e401b" stroke="#111111" stroke-width="2.5"
+        stroke-linejoin="round"/>
+
+  <!-- Блоки хурди поён -->
+  <path d="M28 43 L50 51 L50 61 L28 53 Z"
+        fill="#ff671b" stroke="#111111" stroke-width="2.5"
+        stroke-linejoin="round"/>
+
+  <!-- Сояи паҳлӯи поён -->
+  <path d="M50 51 L71 42 L71 51 L50 61 Z"
+        fill="#713016"/>
+</svg>

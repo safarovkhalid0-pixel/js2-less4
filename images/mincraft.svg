@@ -1,0 +1,53 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+
+  <!-- Сари кирка -->
+  <path d="M24 39
+           L29 25
+           L40 17
+           L55 12
+           L68 12
+           L72 16
+           L70 22
+           L58 23
+           L48 29
+           L40 39
+           L34 48
+           L28 45
+           L32 36
+           L26 42 Z"
+        fill="#c5cbd0"
+        stroke="#111"
+        stroke-width="4"
+        stroke-linejoin="round"/>
+
+  <!-- Қисми торики металл -->
+  <path d="M29 29 L37 22 L43 27 L35 38 L29 43 L25 40 Z"
+        fill="#f5f5f5"
+        stroke="#111"
+        stroke-width="2.5"
+        stroke-linejoin="round"/>
+
+  <!-- Даста -->
+  <path d="M39 29 L47 23 L79 57 L73 64 Z"
+        fill="#ffb900"
+        stroke="#111"
+        stroke-width="4.5"
+        stroke-linejoin="round"/>
+
+  <!-- Равшании даста -->
+  <path d="M43 31 L48 27 L73 54 L68 59 Z"
+        fill="#ffd33d"/>
+
+  <!-- Нӯги даста -->
+  <path d="M68 59 L74 53 L81 60 L76 67 Z"
+        fill="#e99b00"
+        stroke="#111"
+        stroke-width="3.5"
+        stroke-linejoin="round"/>
+
+  <!-- Ҷузъиёти сари кирка -->
+  <path d="M31 27 L37 21 L41 24 L35 31 Z" fill="#fff"/>
+  <path d="M37 18 L41 16 L44 20 L40 23 Z" fill="#ffbd16"/>
+</svg>
